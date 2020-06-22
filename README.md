@@ -6,4 +6,4 @@ Datasources: .csv files, SQL Server, PostgreSQL, MySQL, Oracle Server
 
 Integration Tool: Talend
 
-Visualization Tool: PowerBI
+Visualization Tool: PowerBI & Tableau
